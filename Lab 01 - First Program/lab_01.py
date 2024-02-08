@@ -1,1 +1,1 @@
-hi
+print(word) world
