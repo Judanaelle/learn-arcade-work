@@ -1,1 +1,1 @@
-print(word) world
+print("word")
